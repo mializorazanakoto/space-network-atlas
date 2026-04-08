@@ -1,0 +1,184 @@
+{
+  "esa_members": [
+    {
+      "name": "Centre National d'Études Spatiales (CNES)",
+      "country": "France",
+      "city": "Paris",
+      "address": "18 Avenue Édouard Belin, 31401 Toulouse",
+      "latitude": 43.5623,
+      "longitude": 1.4734,
+      "founded": 1961
+    },
+    {
+      "name": "Deutsches Zentrum für Luft- und Raumfahrt (DLR)",
+      "country": "Germany",
+      "city": "Cologne",
+      "address": "Linder Höhe, 51147 Cologne",
+      "latitude": 50.8892,
+      "longitude": 6.9847,
+      "founded": 1969
+    },
+    {
+      "name": "Agenzia Spaziale Italiana (ASI)",
+      "country": "Italy",
+      "city": "Rome",
+      "address": "Via del Politecnico 1, 00133 Rome",
+      "latitude": 41.8500,
+      "longitude": 12.6167,
+      "founded": 1988
+    },
+    {
+      "name": "Agencia Estatal de Meteorología (AEMET)",
+      "country": "Spain",
+      "city": "Madrid",
+      "address": "Calle Aire 1, 28028 Madrid",
+      "latitude": 40.4168,
+      "longitude": -3.7038,
+      "founded": 1999
+    },
+    {
+      "name": "Académie de l'Air et de l'Espace",
+      "country": "Belgium",
+      "city": "Brussels",
+      "address": "Avenue Hermann Debroux 30, 1160 Brussels",
+      "latitude": 50.8114,
+      "longitude": 4.3970,
+      "founded": 1987
+    },
+    {
+      "name": "Administración Nacional del Espacio (AEE)",
+      "country": "Argentina",
+      "city": "Buenos Aires",
+      "address": "Avda. Paseo Colón 681, C1063ADX Buenos Aires",
+      "latitude": -34.6037,
+      "longitude": -58.3816,
+      "founded": 1991
+    },
+    {
+      "name": "National Centre for Space Studies",
+      "country": "Portugal",
+      "city": "Lisbon",
+      "address": "Instituto Superior Técnico, Av. Rovisco Pais 1, 1049-001 Lisbon",
+      "latitude": 38.7373,
+      "longitude": -9.1393,
+      "founded": 2001
+    },
+    {
+      "name": "Swedish National Space Agency",
+      "country": "Sweden",
+      "city": "Kiruna",
+      "address": "P.O. Box 65, 981 28 Kiruna",
+      "latitude": 67.8557,
+      "longitude": 20.2257,
+      "founded": 1975
+    },
+    {
+      "name": "Finnish Meteorological Institute",
+      "country": "Finland",
+      "city": "Helsinki",
+      "address": "Erik Palménin aukio 1, 00100 Helsinki",
+      "latitude": 60.2055,
+      "longitude": 24.9353,
+      "founded": 1995
+    },
+    {
+      "name": "Koninklijk Nederlands Meteorologisch Instituut (KNMI)",
+      "country": "Netherlands",
+      "city": "De Bilt",
+      "address": "Wilhelminalaan 10, 3732 GK De Bilt",
+      "latitude": 52.1186,
+      "longitude": 5.1769,
+      "founded": 1854
+    },
+    {
+      "name": "Austrian Space Agency",
+      "country": "Austria",
+      "city": "Vienna",
+      "address": "Gusshausstrasse 27-29, 1040 Vienna",
+      "latitude": 48.1872,
+      "longitude": 16.3890,
+      "founded": 2003
+    },
+    {
+      "name": "National Space Agency of the Czech Republic",
+      "country": "Czech Republic",
+      "city": "Prague",
+      "address": "Příspěvková organizace, Československé armády 19, 130 00 Prague",
+      "latitude": 50.0755,
+      "longitude": 14.4378,
+      "founded": 1993
+    },
+    {
+      "name": "Polish Space Agency",
+      "country": "Poland",
+      "city": "Warsaw",
+      "address": "ul. Foksal 16, 00-366 Warsaw",
+      "latitude": 52.2297,
+      "longitude": 21.0122,
+      "founded": 1991
+    },
+    {
+      "name": "Romanian Space Agency",
+      "country": "Romania",
+      "city": "Bucharest",
+      "address": "Str. Mendeleev 21-25, Sector 1, Bucharest",
+      "latitude": 44.4268,
+      "longitude": 26.1025,
+      "founded": 1991
+    },
+    {
+      "name": "Hellenic Space Agency",
+      "country": "Greece",
+      "city": "Athens",
+      "address": "78 Sygrou Avenue, PC 17676 Athens",
+      "latitude": 37.9838,
+      "longitude": 23.7275,
+      "founded": 1995
+    },
+    {
+      "name": "Canadian Space Agency",
+      "country": "Canada",
+      "city": "Montreal",
+      "address": "6767 Boulevard de la Rousselière, Saint-Hubert, QC",
+      "latitude": 45.5017,
+      "longitude": -73.5673,
+      "founded": 1989
+    },
+    {
+      "name": "Hungarian Space Research Institute",
+      "country": "Hungary",
+      "city": "Budapest",
+      "address": "P.O. Box 676, 1592 Budapest",
+      "latitude": 47.4979,
+      "longitude": 19.0402,
+      "founded": 1992
+    },
+    {
+      "name": "Norwegian Space Agency",
+      "country": "Norway",
+      "city": "Oslo",
+      "address": "Hausmanns gate 3, 0182 Oslo",
+      "latitude": 59.9139,
+      "longitude": 10.7522,
+      "founded": 1987
+    },
+    {
+      "name": "Swiss Space Office",
+      "country": "Switzerland",
+      "city": "Bern",
+      "address": "Worblentalstrasse 32, 3063 Ittigen",
+      "latitude": 46.9479,
+      "longitude": 7.4474,
+      "founded": 1970
+    },
+    {
+      "name": "Turkish Space Agency",
+      "country": "Turkey",
+      "city": "Ankara",
+      "address": "Üniversiteler Mahallesi METU Teknokent Binası Faz 2",
+      "latitude": 39.8783,
+      "longitude": 32.7847,
+      "founded": 2018
+    }
+  ]
+}
